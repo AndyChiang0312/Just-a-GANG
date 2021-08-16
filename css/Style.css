@@ -188,17 +188,20 @@ footer .container a:hover {
     background-color: rgba(255,255,255,70%);
     border-radius: 20px;
     font-weight: 900;
+    width: 84vw;
     
 }
 
 #slogan li {
-    font-size: 20px;
+    font-size: 2vw;
 }
 
 #slogan h1 {
+    font-size: 3vw;
     color: white;
     text-shadow: 0 0 20px #ff0000;
 }
+
 
 header .dropdown-menu.show {
     border-radius: 10px;
