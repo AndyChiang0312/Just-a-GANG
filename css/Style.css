@@ -48,6 +48,11 @@ header .navbar.navbar-expand-lg.navbar-light {
     background-color: rgba(0,0,0,0);
 }
 
+#intro {
+    padding-top: 230px;
+    padding-bottom: 230px;
+}
+
 #intro h1 {
     color: white;
 }
