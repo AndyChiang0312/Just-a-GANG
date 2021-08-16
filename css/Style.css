@@ -203,6 +203,10 @@ footer .container a:hover {
     text-shadow: 0 0 20px #ff0000;
 }
 
+#slogan a {
+    margin-top: 10px;
+}
+
 header .dropdown-menu.show {
     border-radius: 10px;
 }
