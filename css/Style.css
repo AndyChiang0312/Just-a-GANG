@@ -1,0 +1,200 @@
+#chinese {
+    font-family: 'Noto Serif TC', serif;
+}
+
+#title {
+    font-family: 'Architects Daughter', cursive;
+}
+
+#para {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+#right {
+    text-align: right;
+}
+.jumbotron {
+    padding: 200px;
+}
+
+header .home {
+    background-image: url("../media/Background.png");
+    background-size: cover;
+    background-position: center; 
+}
+
+header .profile {
+    background-image: url("../media/Ame3.png");
+    background-size: cover;
+    background-position: center; 
+}
+
+header .slogan {
+    background-image: url("../media/unknown\ anime1.png");
+    background-size: cover;
+    background-position: center; 
+}
+
+header {
+    background-color: rgb(169, 192, 255);
+}
+
+header .navbar {
+    background-color: rgba(255,255,255, 50%);
+}
+
+header .navbar.navbar-expand-lg.navbar-light {
+    background-color: rgba(0,0,0,0);
+}
+
+#intro {
+    padding-top: 230px;
+    padding-bottom: 230px;
+}
+
+#intro h1 {
+    color: white;
+}
+
+#intro p {
+    color: white;
+}
+
+#intro a {
+    text-decoration: none;
+    color: white;
+}
+
+header .navbar-brand {
+    font-size: 30px;
+}
+
+#members {
+    padding: 60px;
+    background-image: url("../media/Ame2.png");
+}
+
+#members img{
+    width: 300px;
+    margin: -1px;
+}
+
+#members .card {
+    width: 300px;
+    box-shadow: 0 0 30px 0 rgba(87, 123, 242, 0.8);
+}
+
+#members h1 {
+    color: white;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 900px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 30px;
+}
+#members a {
+    background-color: rgba(0,0,0,0);
+    color: black;
+    border-width: 2px;
+    border-radius: 30px;
+    
+}
+#members a:hover {
+    background-color: pink;
+    color: black;
+}
+
+body {
+    visibility: visible;
+    -webkit-animation: fadeIn 2s;
+    animation: fadeIn 2s
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+  
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+#navbarDropdown {
+    color: rgba(0,0,0,.9);
+}
+
+footer {
+    padding: 75px;
+    background-color: #dfdfdf;
+}
+
+footer .container a:hover {
+    background-color: pink;
+    border-color: pink;
+    color: black;   
+}
+
+#AndyProfile {
+    padding: 50px;
+
+}
+
+#AndyProfile img {
+    max-width: 100%;
+    box-shadow: 0 0 20px 0 rgba(0,0,0, 0.8);
+}
+
+#AndyProfile p {
+    font-size: 60px;
+    color: white;
+}
+
+#AndyProfile li {
+    font-size: 20px;
+}
+
+#west {
+    color: rgb(0, 102, 255);
+}
+
+#AndyProfile a {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#AndyProfile #words{
+    padding-left: 40px;
+    padding: 20px;
+    background-color: rgba(255,255,255,70%);
+    border-radius: 20px;
+    font-weight: 900;
+}
+
+#slogan {
+    padding: 50px;
+}
+
+#slogan p {
+    font-size: 2.5vw;
+    background-color: rgba(255,255,255,70%);
+    text-align: center;
+    padding: 1vw;
+    border-radius: 100px;
+}
+
+#slogan h1 {
+    color: white;
+}
+
+header .dropdown-menu.show {
+    border-radius: 10px;
+}
