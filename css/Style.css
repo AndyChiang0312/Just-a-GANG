@@ -187,12 +187,13 @@ footer .container a:hover {
     font-size: 2.5vw;
     background-color: rgba(255,255,255,70%);
     text-align: center;
-    padding: 1vw;
+    padding: 0.5vw;
     border-radius: 100px;
 }
 
 #slogan h1 {
     color: white;
+    text-shadow: 0 0 20px #ff0000;
 }
 
 header .dropdown-menu.show {
